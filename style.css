@@ -1,0 +1,64 @@
+.all{ color: rgb(238, 234, 231);
+    border: 3px solid #e22020;
+    padding: 13px;
+}
+.all{
+    background-color: #dd3434;
+}
+.a{
+    background-image: url(coffe.jpeg);
+    width: 100%;
+    height: 300px;
+    color: rgb(243, 239, 239);
+    background-repeat: no-repeat;
+background-size: cover;
+}
+.qq{
+    background-color:rgb(245, 222, 179);
+color: #dd3434;
+}
+button{
+    color: #e22020;
+    
+}
+ul{
+    background-color: aqua;
+    width: 300px;
+}
+#heading1{
+    background-color: royalblue;
+    width: 200px;
+    margin: 10px;
+}
+
+ol{
+    background-color: darkslategray;
+}
+.dad{
+    color: #e22020;
+}
+.mm{
+    color: blue;
+}
+.ee{
+    color: green;
+}
+.rr{
+    color: blue;
+}
+.pp{
+    color: greenyellow;
+}
+.bb{
+    color: rgb(243, 140, 15);
+}
+.jj{
+    color: red;
+}
+.ss{
+    color: black;
+}
+.u{background: red;
+text-align: center;
+
+}
